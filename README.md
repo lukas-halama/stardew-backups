@@ -2,7 +2,6 @@
 
 This folder contains helper scripts I've written to automate tasks on Linux (Ubuntu).
 
-yes
 ---
 
 ## `stardew_backup.sh`
