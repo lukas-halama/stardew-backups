@@ -27,3 +27,4 @@ while [ $(ls -1 | wc -l) -gt $MAX_BACKUPS ]; do
 done
 
 echo "Backup complete. Kept $MAX_BACKUPS."
+
